@@ -13,7 +13,7 @@ With the launch of the Stanford Doerr School of Sustainability, we wish to celeb
 
 - [pulse_course_assignment_1.ipynb: Atmosphere - Green house gases](https://colab.research.google.com/github/envgp/taking_the_pulse_of_the_planet/blob/main/notebooks/pulse_assignment_1.ipynb)
 - pulse_course_assignment_2.ipynb: Atmosphere - Global Temperature and Precipitation
-...
+- ...
 
 ## License
 
