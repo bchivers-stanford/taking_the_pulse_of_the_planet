@@ -2,7 +2,7 @@
 This is a repository containing colab notebooks used for assignments in Stanford Geophysics Course - Taking the Pulse of the Planet. 
 
 [![License](https://img.shields.io/github/license/envgp/taking_the_pulse_of_the_planet.svg)](https://github.com/envgp/taking_the_pulse_of_the_planet/blob/main/LICENSE)
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/envgp/taking_the_pulse_of_the_planet/blob/main/notebooks/pulse_course_assignment_1.ipynb)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/envgp/taking_the_pulse_of_the_planet/blob/main/notebooks/pulse_assignment_1.ipynb)
 
 
 ## Course description:
@@ -11,8 +11,8 @@ With the launch of the Stanford Doerr School of Sustainability, we wish to celeb
 
 ## List of Google Colab Notebooks
 
-- pulse_course_assignment_1.ipynb: Atmosphere - Green house gases
-- assignment_2.ipynb: 
+- [pulse_course_assignment_1.ipynb: Atmosphere - Green house gases](https://colab.research.google.com/github/envgp/taking_the_pulse_of_the_planet/blob/main/notebooks/pulse_assignment_1.ipynb)
+- pulse_course_assignment_2.ipynb: Atmosphere - Global Temperature and Precipitation
 ...
 
 ## License
