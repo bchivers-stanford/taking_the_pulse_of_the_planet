@@ -11,8 +11,7 @@ With the launch of the Stanford Doerr School of Sustainability, we wish to celeb
 
 ## List of Google Colab Notebooks
 
-- [pulse_course_assignment_1.ipynb: Atmosphere - Green house gases](https://colab.research.google.com/github/envgp/taking_the_pulse_of_the_planet/blob/main/notebooks/pulse_assignment_1.ipynb)
-- pulse_course_assignment_2.ipynb: Atmosphere - Global Temperature and Precipitation
+- [pulse_assignment_1.ipynb: Atmosphere](https://colab.research.google.com/github/envgp/taking_the_pulse_of_the_planet/blob/main/notebooks/pulse_assignment_1.ipynb); Due date 01-24-2023
 - ...
 
 ## License
