@@ -12,7 +12,8 @@ With the launch of the Stanford Doerr School of Sustainability, we wish to celeb
 ## List of Google Colab Notebooks
 
 - [pulse_assignment_1.ipynb: Atmosphere](https://colab.research.google.com/github/envgp/taking_the_pulse_of_the_planet/blob/main/notebooks/pulse_assignment_1.ipynb); Due date 01-24-2023
-- ...
+- - [pulse_assignment_2.ipynb: Atmosphere](https://colab.research.google.com/github/envgp/taking_the_pulse_of_the_planet/blob/main/notebooks/pulse_assignment_2.ipynb); Due date 01-31-2023
+
 
 ## License
 
