@@ -7,7 +7,7 @@ This is a repository containing colab notebooks used for assignments in Stanford
 
 ## Course description:
 
-With the launch of the Stanford Doerr School of Sustainability, we wish to celebrate through this course, the powerful role that advancements in technology and advancements in data science are playing in addressing the global challenges in sustainability and climate change. 
+With the launch of the [Stanford Doerr School of Sustainability](https://sustainability.stanford.edu/), we wish to celebrate through this course, the powerful role that advancements in technology and advancements in data science are playing in addressing the global challenges in sustainability and climate change. 
 
 ## List of Google Colab Notebooks
 
