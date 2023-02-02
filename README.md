@@ -12,8 +12,8 @@ With the launch of the [Stanford Doerr School of Sustainability](https://sustain
 ## List of Google Colab Notebooks
 
 - [pulse_assignment_1.ipynb: Atmosphere](https://colab.research.google.com/github/envgp/taking_the_pulse_of_the_planet/blob/main/notebooks/pulse_assignment_1.ipynb); Due date 01-24-2023
-- [pulse_assignment_2_part_1.ipynb: Atmosphere](https://colab.research.google.com/github/envgp/taking_the_pulse_of_the_planet/blob/main/notebooks/pulse_assignment_2_part_1.ipynb);  Due date 01-31-2023
-- [pulse_assignment_2_part_2.ipynb: Atmosphere](https://colab.research.google.com/github/envgp/taking_the_pulse_of_the_planet/blob/main/notebooks/pulse_assignment_2_part_2.ipynb);  Due date 02-02-2023
+- [pulse_assignment_2_part_1.ipynb: Land surface](https://colab.research.google.com/github/envgp/taking_the_pulse_of_the_planet/blob/main/notebooks/pulse_assignment_2_part_1.ipynb);  Due date 01-31-2023
+- [pulse_assignment_2_part_2.ipynb: Land surface](https://colab.research.google.com/github/envgp/taking_the_pulse_of_the_planet/blob/main/notebooks/pulse_assignment_2_part_2.ipynb);  Due date 02-02-2023
 - [pulse_assignment_3.ipynb: Cryosphere](https://colab.research.google.com/github/envgp/taking_the_pulse_of_the_planet/blob/main/notebooks/pulse_assignment_3.ipynb); Due date 02-09-2023
 
 
