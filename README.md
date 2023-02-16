@@ -16,7 +16,7 @@ With the launch of the [Stanford Doerr School of Sustainability](https://sustain
 - [pulse_assignment_2_part_2.ipynb: Land surface](https://colab.research.google.com/github/envgp/taking_the_pulse_of_the_planet/blob/main/notebooks/pulse_assignment_2_part_2.ipynb);  Due date 02-02-2023
 - [pulse_assignment_3.ipynb: Cryosphere](https://colab.research.google.com/github/envgp/taking_the_pulse_of_the_planet/blob/main/notebooks/pulse_assignment_3.ipynb); Due date 02-09-2023
 - [pulse_assignment_4.ipynb: Oceans](https://colab.research.google.com/github/envgp/taking_the_pulse_of_the_planet/blob/main/notebooks/pulse_assignment_4.ipynb); Due date 02-16-2023
-- [pulse_assignment_5.ipynb: Hydrosphere](https://colab.research.google.com/github/envgp/taking_the_pulse_of_the_planet/blob/main/notebooks/pulse_assignment_5.ipynb); Due date 02-23-2023
+- [pulse_assignment_5.ipynb: Global groundwater](https://colab.research.google.com/github/envgp/taking_the_pulse_of_the_planet/blob/main/notebooks/pulse_assignment_5.ipynb); Due date 02-23-2023
 
 
 ## License
