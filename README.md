@@ -18,7 +18,7 @@ With the launch of the [Stanford Doerr School of Sustainability](https://sustain
 - [pulse_assignment_4.ipynb: Oceans](https://colab.research.google.com/github/envgp/taking_the_pulse_of_the_planet/blob/main/notebooks/pulse_assignment_4.ipynb); Due date 02-16-2023
 - [pulse_assignment_5.ipynb: Global groundwater](https://colab.research.google.com/github/envgp/taking_the_pulse_of_the_planet/blob/main/notebooks/pulse_assignment_5.ipynb); Due date 02-23-2023
 - [pulse_assignment_6.ipynb: Central Valley groundwater](https://colab.research.google.com/github/envgp/taking_the_pulse_of_the_planet/blob/main/notebooks/pulse_assignment_6.ipynb); Due date 03-02-2023
-- [pulse_assignment_7.ipynb: Central Valley groundwater](https://colab.research.google.com/github/envgp/taking_the_pulse_of_the_planet/blob/main/notebooks/pulse_assignment_7.ipynb); Due date 03-09-2023
+- [pulse_assignment_7.ipynb: Cities](https://colab.research.google.com/github/envgp/taking_the_pulse_of_the_planet/blob/main/notebooks/pulse_assignment_7.ipynb); Due date 03-09-2023
 
 
 ## License
