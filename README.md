@@ -20,6 +20,8 @@ With the launch of the [Stanford Doerr School of Sustainability](https://sustain
 - [pulse_assignment_6.ipynb: Central Valley groundwater](https://colab.research.google.com/github/envgp/taking_the_pulse_of_the_planet/blob/main/notebooks/pulse_assignment_6.ipynb); Due date 03-02-2023
 - [pulse_assignment_7.ipynb: Cities](https://colab.research.google.com/github/envgp/taking_the_pulse_of_the_planet/blob/main/notebooks/pulse_assignment_7.ipynb); Due date 03-09-2023
 
+## Citations
+Penguin data used in the course modules was derived from the [Palmer Penguins dataset](https://allisonhorst.github.io/palmerpenguins/), used in accordance with the Palmer Station LTER Data Policy and the LTER Data Access Policy for Type I data.
 
 ## License
 
